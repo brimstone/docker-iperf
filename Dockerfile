@@ -9,4 +9,4 @@ ENTRYPOINT ["iperf"]
 
 CMD ["-s"]
 
-EXPOSE 5201 5201/udp
+EXPOSE 5001 5001/udp
